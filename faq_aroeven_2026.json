@@ -1,0 +1,363 @@
+[
+  {
+    "id": "FAQ-01",
+    "category": "Valeurs éducatives",
+    "question": "Quelles sont les valeurs de l’Aroéven ?",
+    "answer": "Le projet éducatif repose sur la citoyenneté, l’autonomie et la laïcité. Les séjours encouragent le vivre-ensemble, la participation des jeunes et le respect des différences.",
+    "route": "chatbot",
+    "source": "Nouveaux directeurs 2026, §1",
+    "keywords": [
+      "valeurs",
+      "projet éducatif",
+      "citoyenneté",
+      "laïcité"
+    ]
+  },
+  {
+    "id": "FAQ-02",
+    "category": "Préparation",
+    "question": "Quand transmettre le projet pédagogique ?",
+    "answer": "Le projet pédagogique est à transmettre 15 jours avant le départ.",
+    "route": "chatbot",
+    "source": "Nouveaux directeurs 2026, §2 ; Procédures 2026, §1",
+    "keywords": [
+      "projet pédagogique",
+      "15 jours",
+      "envoyer projet"
+    ]
+  },
+  {
+    "id": "FAQ-03",
+    "category": "Préparation",
+    "question": "Quand contacter la structure d’accueil ?",
+    "answer": "Présente-toi au responsable de la structure un mois avant le départ.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §1",
+    "keywords": [
+      "structure accueil",
+      "hébergement contact",
+      "un mois avant"
+    ]
+  },
+  {
+    "id": "FAQ-04",
+    "category": "Préparation",
+    "question": "Quand préparer le convoyage ?",
+    "answer": "Le convoyage se prépare avec l’Aroéven entre 7 et 15 jours avant le départ. Pour le premier séjour d’un site, prévoir l’acheminement du minibus et du matériel 1 à 3 jours avant.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §1",
+    "keywords": [
+      "convoyage",
+      "transport départ",
+      "minibus matériel"
+    ]
+  },
+  {
+    "id": "FAQ-05",
+    "category": "Administratif",
+    "question": "Quand préparer la fiche complémentaire ?",
+    "answer": "La FAQ 2026 prévoit la fiche complémentaire de déclaration 10 jours avant le séjour. Vérifie la conformité réglementaire et les modalités de déclaration avec l’Aroéven.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §2",
+    "keywords": [
+      "fiche complémentaire",
+      "déclaration",
+      "10 jours"
+    ]
+  },
+  {
+    "id": "FAQ-06",
+    "category": "Administratif",
+    "question": "Où se trouvent les dossiers des participants ?",
+    "answer": "Les documents et dossiers du séjour sont disponibles via le lien OneDrive dédié. Le directeur vérifie les pièces et les éléments nécessaires à l’accueil. N’envoie jamais ces dossiers dans ce chatbot public.",
+    "route": "chatbot",
+    "source": "Nouveaux directeurs 2026, §3 ; Procédures 2026, §2",
+    "keywords": [
+      "onedrive",
+      "dossiers jeunes",
+      "documents séjour"
+    ]
+  },
+  {
+    "id": "FAQ-07",
+    "category": "Administratif",
+    "question": "Quels documents préparer pour un contrôle ?",
+    "answer": "La FAQ indique : projet éducatif, projet pédagogique, assurance, récépissé de déclaration, budget du séjour et dossiers du personnel, notamment diplômes et éléments de vaccination. Le support demande de centraliser les documents sur OneDrive.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §2",
+    "keywords": [
+      "contrôle",
+      "assurance",
+      "récépissé",
+      "dossiers personnel"
+    ]
+  },
+  {
+    "id": "FAQ-08",
+    "category": "Communication",
+    "question": "Quel canal utiliser pour contacter l’Aroéven ?",
+    "answer": "Pour les communications avec l’Aroéven relatives au séjour, la FAQ demande d’utiliser le groupe WhatsApp du séjour. Une urgence vitale nécessite d’abord l’appel aux secours ; une décision urgente peut également justifier l’appel à la permanence.",
+    "route": "chatbot",
+    "source": "Nouveaux directeurs 2026, §3 ; Procédures 2026, §8",
+    "keywords": [
+      "whatsapp",
+      "communiquer aroéven",
+      "canal communication"
+    ]
+  },
+  {
+    "id": "FAQ-09",
+    "category": "Communication",
+    "question": "Qui contacte les familles ?",
+    "answer": "L’Aroéven gère les contacts institutionnels avec les familles. Un téléphone de séjour est remis à l’équipe ; le personnel ne communique pas son numéro personnel aux familles ou aux jeunes. En cas de consultation médicale, suivre la procédure spécifique.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §4",
+    "keywords": [
+      "familles",
+      "téléphone de séjour",
+      "numéro personnel"
+    ]
+  },
+  {
+    "id": "FAQ-10",
+    "category": "Communication",
+    "question": "Que faire après une consultation médicale ?",
+    "answer": "La FAQ prévoit d’informer immédiatement le groupe WhatsApp du séjour, puis, une fois le diagnostic posé, de prévenir la famille ou le lieu de vie. Si la situation est grave ou urgente, appeler d’abord les secours et prévenir la permanence. Ne donne aucun détail de santé nominatif dans ce chatbot.",
+    "route": "permanence",
+    "source": "Procédures 2026, §4",
+    "keywords": [
+      "médecin",
+      "consultation",
+      "hôpital",
+      "hospitalisation"
+    ]
+  },
+  {
+    "id": "FAQ-11",
+    "category": "Budget",
+    "question": "Comment fonctionne la carte virtuelle Manager One ?",
+    "answer": "La carte virtuelle sert aux dépenses courantes. Le ticket de caisse détaillé doit être scanné dans l’application Manager One avant une nouvelle dépense. Un simple ticket de carte bancaire ne suffit pas selon la FAQ.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §3",
+    "keywords": [
+      "manager one",
+      "carte virtuelle",
+      "ticket de caisse",
+      "justificatif"
+    ]
+  },
+  {
+    "id": "FAQ-12",
+    "category": "Budget",
+    "question": "À quoi sert la carte bancaire physique ?",
+    "answer": "La carte physique est réservée à l’essence et aux urgences selon la FAQ 2026.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §3",
+    "keywords": [
+      "carte physique",
+      "essence",
+      "carte bancaire"
+    ]
+  },
+  {
+    "id": "FAQ-13",
+    "category": "Budget",
+    "question": "Que faire si le budget est dépassé ?",
+    "answer": "Si une dépense imprévue ou un dépassement de budget survient, contacter le siège avant d’engager une décision nécessitant validation. La carte est plafonnée au budget du séjour.",
+    "route": "permanence",
+    "source": "Procédures 2026, §3",
+    "keywords": [
+      "budget dépassé",
+      "dépense imprévue",
+      "plafond carte",
+      "dépassement budget"
+    ]
+  },
+  {
+    "id": "FAQ-14",
+    "category": "Équipe",
+    "question": "Qui peut conduire le minibus ?",
+    "answer": "D’après la FAQ, la conduite du véhicule est réservée à la direction, sauf autorisation exceptionnelle de l’Aroéven pour un animateur, communiquée via le groupe WhatsApp.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §5",
+    "keywords": [
+      "conduire",
+      "conducteur",
+      "minibus",
+      "véhicule"
+    ]
+  },
+  {
+    "id": "FAQ-15",
+    "category": "Matériel",
+    "question": "Que faire en cas de dommage au véhicule ?",
+    "answer": "Envoyer un message dans le groupe WhatsApp du séjour avec une photo. Signaler rapidement le dommage à l’Aroéven et ne pas décider seul d’une intervention ou prise en charge exceptionnelle.",
+    "route": "permanence",
+    "source": "Procédures 2026, §5",
+    "keywords": [
+      "accrochage",
+      "dommage véhicule",
+      "accident véhicule",
+      "franchise"
+    ]
+  },
+  {
+    "id": "FAQ-16",
+    "category": "Matériel",
+    "question": "Comment gérer le matériel pédagogique ?",
+    "answer": "Une base de matériel est fournie. La direction la complète selon les activités et le budget et réalise un inventaire en début et en fin de séjour.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §5",
+    "keywords": [
+      "matériel pédagogique",
+      "inventaire"
+    ]
+  },
+  {
+    "id": "FAQ-17",
+    "category": "Équipe",
+    "question": "Que faire en cas de problème d’effectif ?",
+    "answer": "Calcule d’abord le besoin selon la règle interne de simulation de 1 animateur pour 8 jeunes, puis vérifie les exigences applicables à l’accueil et aux activités. S’il manque un adulte nécessaire à la sécurité ou à l’encadrement, contacte rapidement la permanence pour organiser une solution.",
+    "route": "permanence",
+    "source": "Règle interne fournie par l’organisateur ; Nouveau directeurs 2026, §4",
+    "keywords": [
+      "animateur absent",
+      "effectif insuffisant",
+      "remplacement",
+      "manque animateur"
+    ]
+  },
+  {
+    "id": "FAQ-18",
+    "category": "Équipe",
+    "question": "Quels taux d’encadrement apparaissent dans la FAQ ?",
+    "answer": "La FAQ cite pour les plus de 6 ans un repère d’un animateur pour 12 jeunes et des exigences de qualification. La règle interne de simulation de l’organisation est de 1 pour 8. Ces valeurs ne permettent pas à elles seules de conclure à la conformité d’un séjour : vérifier les textes applicables, les qualifications et les activités.",
+    "route": "chatbot",
+    "source": "Nouveaux directeurs 2026, §4 ; règle interne communiquée",
+    "keywords": [
+      "taux encadrement",
+      "ratio animateur",
+      "nombre animateurs"
+    ]
+  },
+  {
+    "id": "FAQ-19",
+    "category": "Vie collective",
+    "question": "Comment construire les règles de vie ?",
+    "answer": "Le document recommande de fixer un cadre dès les premiers jours et de construire avec les jeunes une charte distinguant les règles négociables et non négociables. L’équipe applique elle-même les règles établies.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §6",
+    "keywords": [
+      "règles de vie",
+      "charte",
+      "cadre éducatif"
+    ]
+  },
+  {
+    "id": "FAQ-20",
+    "category": "Vie collective",
+    "question": "Comment gérer une transgression ?",
+    "answer": "Réagir de façon éducative : sanction justifiée, expliquée et proportionnée, sans décider à chaud ni recourir au chantage. En cas d’incident grave, demander l’avis d’un permanent.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §6",
+    "keywords": [
+      "sanction",
+      "transgression",
+      "discipline"
+    ]
+  },
+  {
+    "id": "FAQ-21",
+    "category": "Situations sensibles",
+    "question": "Que faire en cas d’alcool ou de drogues ?",
+    "answer": "La FAQ prévoit un examen au cas par cas avec un permanent de l’Aroéven, sans renvoi automatique. En cas de danger ou de malaise, sécuriser et appeler les secours si nécessaire.",
+    "route": "permanence",
+    "source": "Procédures 2026, §7",
+    "keywords": [
+      "alcool",
+      "drogue",
+      "consommation",
+      "stupéfiant"
+    ]
+  },
+  {
+    "id": "FAQ-22",
+    "category": "Situations sensibles",
+    "question": "Qui peut décider d’un rapatriement disciplinaire ?",
+    "answer": "Ni un animateur ni un directeur seul. La FAQ exige l’accord préalable de l’Aroéven, en concertation avec un permanent, et un rapport circonstancié avant le départ du jeune.",
+    "route": "permanence",
+    "source": "Procédures 2026, §7",
+    "keywords": [
+      "rapatriement",
+      "renvoi",
+      "exclusion"
+    ]
+  },
+  {
+    "id": "FAQ-23",
+    "category": "Situations sensibles",
+    "question": "Quelle est la procédure d’un rapatriement médical ?",
+    "answer": "La FAQ mentionne l’accord obligatoire d’un médecin puis le recours à IMA Assistance. Cette démarche nécessite la coordination avec la permanence. En cas de danger immédiat, appeler les secours.",
+    "route": "permanence",
+    "source": "Procédures 2026, §7",
+    "keywords": [
+      "rapatriement médical",
+      "ima assistance",
+      "retour médical"
+    ]
+  },
+  {
+    "id": "FAQ-24",
+    "category": "Situations sensibles",
+    "question": "Quelles sont les règles concernant la cigarette ?",
+    "answer": "La FAQ évoque une gestion au cas par cas et précise expressément que cette consigne interne doit être confrontée aux règles légales applicables avant toute mise en œuvre. Ne décide pas sur cette seule base : demande une validation à la permanence.",
+    "route": "permanence",
+    "source": "Procédures 2026, §7",
+    "keywords": [
+      "cigarette",
+      "tabac",
+      "fumer",
+      "vapoter"
+    ]
+  },
+  {
+    "id": "FAQ-25",
+    "category": "Permanence",
+    "question": "Quand appeler la permanence ?",
+    "answer": "Appelle la permanence lorsqu’une décision, une validation ou un arbitrage Aroéven est nécessaire, ou face à une situation préoccupante qui ne peut attendre. Hors horaires de bureau, la FAQ réserve l’astreinte aux urgences et demande de laisser un message en l’absence de réponse. Les questions courantes peuvent passer par le WhatsApp du séjour.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §8",
+    "keywords": [
+      "permanence",
+      "astreinte",
+      "qui appeler",
+      "contacter siège"
+    ]
+  },
+  {
+    "id": "FAQ-26",
+    "category": "Départ",
+    "question": "Le tee-shirt Aroéven est-il obligatoire ?",
+    "answer": "Oui. La FAQ indique le port obligatoire d’un tee-shirt Aroéven propre au départ et au retour.",
+    "route": "chatbot",
+    "source": "Procédures 2026, §4",
+    "keywords": [
+      "tee-shirt",
+      "tshirt",
+      "tenue départ"
+    ]
+  },
+  {
+    "id": "FAQ-27",
+    "category": "Départ",
+    "question": "Que faire le jour du départ ?",
+    "answer": "Coordonner le convoyage et l’accueil, pointer la liste de départ, récupérer les derniers documents et l’argent de poche, et transmettre les informations utiles au permanent.",
+    "route": "chatbot",
+    "source": "Nouveaux directeurs 2026, §2 ; Procédures 2026, §1",
+    "keywords": [
+      "jour du départ",
+      "liste départ",
+      "argent de poche"
+    ]
+  }
+]
