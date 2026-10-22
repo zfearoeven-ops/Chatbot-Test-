@@ -40,7 +40,7 @@ def contacts(route):
         st.error('**Urgence potentielle : appelez les secours sans attendre.** 15 (SAMU) · 18 (pompiers) · 112 · 114 (urgence accessible). Sécurisez le groupe et informez ensuite la permanence selon la situation.')
     elif route=='permanence':
         st.warning('**Avis ou validation de l’Aroéven nécessaire.** Utilisez le groupe WhatsApp du séjour et appelez la permanence si une réponse rapide est nécessaire. Hors horaires, réservez l’astreinte aux urgences.')
-    st.caption('📞 Siège 03 20 75 10 85 · Astreinte hors horaires 06 25 31 21 64 (numéro à valider par l’organisateur). La FAQ 2026 mentionne 9 h–17 h en semaine, tandis qu’une consigne précédente indiquait 8 h 30–17 h : horaire à confirmer.')
+    st.caption('📞 Siège 03 20 75 10 85 de 9h à 17h - Astreinte (hors heure du siège) 06 25 31 21 64 (numéro à valider par l’organisateur).')
 
 def render_answer(text, route, reference=None):
     if route=='urgence':
